@@ -189,7 +189,7 @@ MonoBehaviour:
     audioMixerGroup: {fileID: 0}
     source: {fileID: 0}
   - name: Punch
-    clip: {fileID: 8300000, guid: 413a10ea268134046b458e4acf99627e, type: 3}
+    clip: {fileID: 8300000, guid: 56dd83ff0580e7d4c955fa4fd8a2b636, type: 3}
     volume: 1
     pitch: 1
     loop: 0
@@ -232,10 +232,10 @@ MonoBehaviour:
     source: {fileID: 0}
   music:
   - name: MainMusic
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: e0f7617ed766e6b4e9b0197bf5274bf8, type: 3}
     volume: 1
     pitch: 1
-    loop: 0
+    loop: 1
     audioMixerGroup: {fileID: 0}
     source: {fileID: 0}
   audioMixer: {fileID: 0}
